@@ -48,7 +48,7 @@ Note :
 
 - Above, I use `L1 metric DMs` (`cityblock`).
 - We can observe that different inital means result different result and convergence.
-- I use `L2` metric DMs` (`sqEuclidean`), and get the result below. And find that two inital conditions
+- I use `L2 metric DMs` (`sqEuclidean`), and get the result below. And find that two inital conditions
 	get the same result.
 
 ```
