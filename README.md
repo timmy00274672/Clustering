@@ -171,7 +171,55 @@ Note:
 	    1.0000
 	```
 
+### Question3
+Just run the `Demo3.m` script, and get the result:
+
+```
+Set Max class = 2, cluster : 2, (silh) = 0.5911
+
+Set Max class = 3, cluster : 3, (silh) = 0.4420
+
+Set Max class = 4, cluster : 4, (silh) = 0.1786
+
+Set Max class = 5, cluster : 5, (silh) = 0.3270
+
+Set Max class = 6, cluster : 6, (silh) = 0.4120
+
+Set Max class = 7, cluster : 7, (silh) = 0.4760
+
+Set Max class = 8, cluster : 8, (silh) = 0.4530
+
+Set Max class = 9, cluster : 9, (silh) = 0.4344
+
+Set Max class = 10, cluster : 10, (silh) = 0.5221
+
+Set Max class = 11, cluster : 11, (silh) = 0.6054
+
+Set Max class = 12, cluster : 12, (silh) = 0.7295
+
+Set Max class = 13, cluster : 13, (silh) = 0.7740
+
+Set Max class = 14, cluster : 14, (silh) = 0.7873
+
+Set Max class = 15, cluster : 15, (silh) = 0.8233
+
+Set Max class = 16, cluster : 16, (silh) = 0.8989
+
+Set Max class = 17, cluster : 17, (silh) = 0.9508
+
+Set Max class = 18, cluster : 18, (silh) = 0.9669
+
+Set Max class = 19, cluster : 18, (silh) = 0.9669
+
+Set Max class = 20, cluster : 18, (silh) = 0.9669
+```
+
+I find that the 4th case get the smallest `silh`. Cool, right?
+
 ## Reference
 
 - [How do I perform k-Means clustering?](http://www.matlab-cookbook.com/recipes/0100_Statistics/150_kmeans_clustering.html)
 - [k-Means Clustering](http://www.mathworks.com/help/stats/k-means-clustering-12.html)
+- [Using Modified Basic Sequential Clustering for Background Reconstruction](http://scialert.net/fulltext/?doi=itj.2008.1037.1042)
+	
+	DOI: 10.3923/itj.2008.1037.1042 
